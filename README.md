@@ -2,15 +2,13 @@
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
+> About...
+- 🔭    I’m currently working on all things `SRE`
+- 🌱    I’m currently learning `Go`
+- ⚡    Fun fact: I belive `The Hitchhiker's Guide to the Galaxy` to be a prophesy.
+- 📫    How to contact | block me: [![Twitter Badge](https://img.shields.io/badge/-@pampatzoglou-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pampatzoglou)](https://twitter.com/pampatzoglou) [![Linkedin Badge](https://img.shields.io/badge/-pampatzoglou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pampatzoglou/)](https://www.linkedin.com/in/pampatzoglou/)
 
-- 🔭 I’m currently working on all things SRE
-- 🌱 I’m currently learning Go
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@pampatzoglou-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pampatzoglou)](https://twitter.com/pampatzoglou) [![Linkedin Badge](https://img.shields.io/badge/-pampatzoglou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pampatzoglou/)](https://www.linkedin.com/in/pampatzoglou/)
-- ⚡ Fun fact: ...
-
-<img align="right" alt="GIF" src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/737457/1200_x_630__social-large_-01-24cd27d138bb877658aed9bb5168f1a0.jpg?raw=true" width="500" height="320" />
-
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+### Favorite Tech in random order
 
 > Tools, languages, and other things that I like to work with.
 
@@ -112,15 +110,6 @@
 </table>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pampatzoglou&show_icons=true" alt="Panteli's Github Stats"></img>
-</p>
+[![betorvs github stats](https://github-readme-stats.vercel.app/api?username=pampatzoglou&show_icons=true)](https://github.com/pampatzoglou/pampatzoglou)
 
-<!--
-**pampatzoglou/pampatzoglou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
 <a href="https://skyline.github.com/pampatzoglou/2022" title="2022 GitHub Skyline"><img src="...." alt="2022 GitHub Skyline" width="50%" /></a>
