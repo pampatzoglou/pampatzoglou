@@ -15,25 +15,25 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#favorite-tech-in-random-order">
         <img src="https://icons-for-free.com/download-icon-super+tiny+icons+python-1324450764865983278_512.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#favorite-tech-in-random-order">
         <img src="https://img.icons8.com/color/480/golang.png" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#favorite-tech-in-random-order">
         <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" width="58" height="58" alt="bash" />
       </a>
       <br>Shell
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Kind" />
       </a>
       <br>Git
@@ -41,25 +41,25 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
@@ -67,25 +67,25 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" width="48" height="48" alt="Helm" />
       </a>
       <br>Helm/Helmfile
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" width="48" height="48" alt="Argo" />
       </a>
       <br>Argo
@@ -93,24 +93,24 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://david.gardiner.net.au/assets/2021/07/github-actions-logo.png" width="48" height="48" alt="Github Actions" />
       </a>
       <br>GitHub Actions
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" width="48" height="48" alt="CircleCi" />
       </a>
       <br>CircleCI
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#favorite-tech-in-random-order" >
         <img src="https://raw.githubusercontent.com/kubernetes-sigs/kind/main/logo/logo.svg" width="48" height="48" alt="Kind" />
       </a>
       <br>KinD
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#favorite-tech-in-random-order">
         <img src="https://cncf-branding.netlify.app/img/projects/strimzi/stacked/color/strimzi-stacked-color.svg" width="48" height="48" alt="Kafka" />
       </a>
       <br>Kafka
