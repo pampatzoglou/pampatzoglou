@@ -16,7 +16,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#favorite-tech-in-random-order">
-        <img src="https://icons-for-free.com/download-icon-super+tiny+icons+python-1324450764865983278_512.png" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/pampatzoglou/pampatzoglou/main/resources/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -42,7 +42,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#favorite-tech-in-random-order" >
-        <img src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png" width="48" height="48" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/pampatzoglou/pampatzoglou/main/resources/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
