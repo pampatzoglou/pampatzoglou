@@ -121,4 +121,4 @@
 
 [![pampatzoglou github stats](https://github-readme-stats.vercel.app/api?username=pampatzoglou&show_icons=true)](https://github.com/pampatzoglou/pampatzoglou)
 
-<a href="https://skyline.github.com/pampatzoglou/2022" title="2022 GitHub Skyline">/a>
+<a href="https://skyline.github.com/pampatzoglou/2022" title="2022 GitHub Skyline"></a>
