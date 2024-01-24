@@ -70,7 +70,7 @@
       <a href="#favorite-tech-in-random-order" >
         <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" width="48" height="48" alt="Helm" />
       </a>
-      <br>Helm/Helmfile
+      <br>Helm
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech-in-random-order" >
