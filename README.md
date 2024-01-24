@@ -74,7 +74,7 @@
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech-in-random-order" >
-        <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" width="48" height="48" alt="Terraform" />
+        <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
