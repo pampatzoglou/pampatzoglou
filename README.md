@@ -74,7 +74,7 @@
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech-in-random-order" >
-        <img src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png" width="48" height="48" alt="Terraform" />
+        <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
@@ -86,7 +86,7 @@
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech-in-random-order" >
-        <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" width="48" height="48" alt="Argo" />
+        <img src="https://argocd-image-updater.readthedocs.io/en/v0.2.0/assets/logo.png" width="48" height="48" alt="Argo" />
       </a>
       <br>Argo
     </td>
@@ -111,7 +111,7 @@
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech-in-random-order">
-        <img src="https://cncf-branding.netlify.app/img/projects/strimzi/stacked/color/strimzi-stacked-color.svg" width="48" height="48" alt="Kafka" />
+        <img src="https://logovectordl.com/wp-content/uploads/2021/05/apache-kafka-logo-vector.png" width="48" height="48" alt="Kafka" />
       </a>
       <br>Kafka
     </td>
